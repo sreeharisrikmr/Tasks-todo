@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Go to Gym",
+      "note": "@ 5 Pm",
+      "GroupId": "2"
+    },
+    {
+      "id": "2",
+      "title": "Groceries",
+      "note": "@ 5 Pm",
+      "GroupId": "2"
+    },
+    {
+      "id": "3",
+      "title": "Read The last hunt",
+      "note": "By Deon Meyer",
+      "GroupId": "3"
+    },
+    {
+      "id": "4",
+      "title": "Pick Hanna",
+      "note": "@ 3Pm from school",
+      "GroupId": "4"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Shopping"
+    },
+    {
+      "id": "2",
+      "name": "Gym"
+    },
+    {
+      "id": "3",
+      "name": "Reading"
+    },
+    {
+      "id": "4",
+      "name": "⭐Important"
+    }
+  ]
+}
